@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+<configuration>
+    <settings>
+<!--        打印sal日志 MyBatis日志框架使用LOG4J-->
+        <setting name="logImpl" value="LoG4J"/>
+    </settings>
+</configuration>
