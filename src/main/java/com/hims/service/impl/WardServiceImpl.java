@@ -2,8 +2,6 @@ package com.hims.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.hims.mapper.WardMapper;
 import com.hims.pojo.Ward;
 import com.hims.service.WardService;
 import org.springframework.stereotype.Service;
